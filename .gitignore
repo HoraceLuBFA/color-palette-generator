@@ -6,5 +6,6 @@
 
 # Build directory
 build/
+dist/
 
 AGENTS.md
