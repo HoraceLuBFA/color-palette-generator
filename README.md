@@ -31,10 +31,9 @@ Color Palette Generator 是一款使用 Python + Tkinter 构建的桌面小工�
 如果本仓库已在 GitHub Releases 提供预编译应用：
 
 1. 前往项目 Releases 页面。
-2. 下载 `ColorPaletteGenerator.app`（或压缩包），解压后双击运行。
+2. 下载 `ColorPaletteGenerator.app`压缩包，解压后双击或拖入“应用程序”后运行。
 3. 首次运行如遇安全提示，可使用右键“打开”或在“系统设置 → 安全性与隐私”中允许来自已识别开发者的应用。
 
-若未提供预编译包，请参考下方“从源码运行/构建”。
 
 ### 从源码运行
 
@@ -104,10 +103,8 @@ Color Palette Generator is a lightweight desktop tool built with Python and Tkin
 
 If a prebuilt app is available on the project’s Releases page:
 
-1. Download `ColorPaletteGenerator.app` (or the archive) and unzip.
+1. Download `ColorPaletteGenerator.app` .zip archive and unzip.
 2. Double-click to run. On first launch, you may need to right-click → Open, or allow apps from identified developers in System Settings.
-
-If no prebuilt is provided, see the sections below to run from source or build locally.
 
 ### Run From Source
 
